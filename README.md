@@ -1,1 +1,2 @@
 # odin-recipes
+This is a simple website with 3 of my most used recipes. I made it to test my HTML skills, like adding headings, paragraphs, links, images, and lists. I also used the `<em>` element and the `<strong>` element
